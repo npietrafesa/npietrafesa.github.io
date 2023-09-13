@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DAAH Website Test Thingy
+title: Noah Pietrafesa's Digital Arts and Humanities Site
 email: npietrafesa110@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My website whoa!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  abc123 hello
 twitter_username: username
 github_username: npietrafesa
 minimal_mistakes_skin: default
@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Noah Pietrafesa"
+  name   : "Noah Sang-Jin Pietrafesa"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi!!!!!!!!!!!!!!!!!!!!"
+  bio    : "I am a 21 year old IM Student studying at NYUAD. I am a mixed Korean and Italian from New York, USA. I like music, art, games, coding, and data science."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,7 +71,7 @@ author:
       url: "https://github.com/npietrafesa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/noah.pietrafesa"
 
 footer:
   links:
@@ -83,7 +83,7 @@ footer:
       url: "https://github.com/npietrafesa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/noah.pietrafesa"
 
 defaults:
   # _posts
