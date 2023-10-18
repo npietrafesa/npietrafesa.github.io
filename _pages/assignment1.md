@@ -37,6 +37,7 @@ I found this interesting because Nam June Paik is Korean-American. He was born i
 After seeing that Paik’s work was considered American, I was curious to see if there were art pieces listed as Korean at the Harvard Art Museum. There were a little less than 1,500 entries that I had found, most of them being artifacts from old Korean dynasties. I wanted to find paintings, so I looked for them and found a piece that interested me: “Branch of Fruiting Pomegranate” by Rae-Hyeon Park.
 
 ![branch of fruiting pomegranate](/assets/images/assignment1/pomegranate.jpeg)
+
 *“Branch of Fruiting Pomegranate” by Rae-Hyeon Park*
 
 This piece depicts two pomegranate fruits hanging off of a tree branch, drawn in a traditional “Eastern” style. This piece intrigued me because as far as I know, pomegranates do not grow in Korea. After doing some research, I found out this was true, and that her pieces are centered around creating “Eastern” style pieces using “Western” objects. I found this to be a very interesting piece overall. However, I was unable to find the piece in the csv file and I could not figure out why.
