@@ -4,7 +4,7 @@ main:
   - title: "DLN"
     url: /dln/
   - title: "Assignment 1"
-    - url: /assignment1/
+    url: /assignment1/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
