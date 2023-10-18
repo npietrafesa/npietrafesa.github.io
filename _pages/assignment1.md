@@ -10,10 +10,12 @@ permalink: /assignment1/
 Looking through the Harvard Art Museum website, I found a few objects of interest. I tried using the csv file to look through as well, but since it is not well sorted or formatted, it is harder to find objects of interest. There are also no visuals, so you are essentially only able to see objects by their description. The website was much easier to use, as there are visuals for each piece and ways of searching and sorting by categories, such as artist, culture, time period, etc. While it is true you can also search on the csv using CMD-F (I am using Mac OS). Therefore, I had a much easier time using the sorted website over the raw csv data, which in hindsight, seems pretty obvious. When searching for art pieces, the first thing I did was look for my two favorite artists: Jean-Michel Basquiat and Nam June Paik.
 
 ![example of basquiat’s art](/assets/images/assignment1/bird.png)
-Jean-Michel Basquiat’s “Bird on Money”
+
+*“Bird on Money” by Jean-Michel Basquiat*
 
 ![example of paik’s art](/assets/images/assignment1/buddha.jpeg)
-Nam June Paik’s “TV Buddha”
+
+*“TV Buddha” by Nam June Paik*
 
 Unfortunately, while I was unable to find any of Basquiat’s pieces, I was able to find some of Paik’s. Two of his pieces that I found interesting were “TV Buddha”, shown above, and “White TV.”
 
@@ -35,6 +37,7 @@ I found this interesting because Nam June Paik is Korean-American. He was born i
 After seeing that Paik’s work was considered American, I was curious to see if there were art pieces listed as Korean at the Harvard Art Museum. There were a little less than 1,500 entries that I had found, most of them being artifacts from old Korean dynasties. I wanted to find paintings, so I looked for them and found a piece that interested me: “Branch of Fruiting Pomegranate” by Rae-Hyeon Park.
 
 ![branch of fruiting pomegranate](/assets/images/assignment1/pomegranate.jpeg)
+*“Branch of Fruiting Pomegranate” by Rae-Hyeon Park*
 
 This piece depicts two pomegranate fruits hanging off of a tree branch, drawn in a traditional “Eastern” style. This piece intrigued me because as far as I know, pomegranates do not grow in Korea. After doing some research, I found out this was true, and that her pieces are centered around creating “Eastern” style pieces using “Western” objects. I found this to be a very interesting piece overall. However, I was unable to find the piece in the csv file and I could not figure out why.
 
@@ -47,7 +50,12 @@ For the next part, I decided to see the most and least-viewed objects of the Kor
 I found that all of the pieces, from what I could see, were either Buddhist sculptures or paintings or ink-washed-style paintings from the Jeoson or Koryo dynasties.
 
 ![example 1: buddhist piece](/assets/images/assignment1/kmost.jpeg)
+
+*"Water-moon Avalokiteshvara" by Unknown Artist*
+
 ![example 2: ink painting](/assets/images/assignment1/kmost2.jpeg)
+
+*"Blossoming Plum" by Hui-Ryong Jo*
 
 This makes sense because from what I saw, most of the Korean pieces on the website are from those eras of Korea, and there is not much in the realm of contemporary art. If there were contemporary pieces, they were still heavily influenced by traditional ink-washed pieces, such as the case of Rae-Hyeon Park’s aforementioned piece, which was created in 1959. Also, I believe that when people are looking for East Asian art pieces, they look for these styles of paintings or Buddhist sculptures, because they are the most well-known art pieces to come from there. Next, I took a look at the least viewed Korean art pieces:
 
@@ -56,6 +64,8 @@ This makes sense because from what I saw, most of the Korean pieces on the websi
 All of the pieces that I saw were sherds of Koryo-era ceramics and very small ones at that. I originally thought “sherd” was a typo of “shard,” but I found out sherds are actually fragments of broken ceramics, usually found at archeological sites.
 
 ![sherd](/assets/images/assignment1/kleast.jpeg)
+
+*"Sherd: Fragment of a Vessel, Probably from a Large Jar or Garden Stool", Koryo Era*
 
 Every single piece that was listed had zero page views. This did not surprise me much either, as I had mentioned before that when looking through the website sorting by Korean culture, a large majority of the pieces shown were ceramics. Fragments may seem a lot less interesting to a viewer than a whole or mostly whole ceramic piece since a person is not really able to envision what the piece originally looked like based on a small sherd.
 
