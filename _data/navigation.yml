@@ -5,6 +5,8 @@ main:
     url: /dln/
   - title: "Assignment 1"
     url: /assignment1/
+  - title: "Assignment 2"
+    url: /assignment2/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
