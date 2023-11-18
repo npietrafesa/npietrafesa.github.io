@@ -13,7 +13,7 @@ At first, I had a hard time trying to figure out what I wanted to analyze, or ev
 
 ![](/assets/images/assignment2/book.png)
 
-*The *Beowulf* novel that’s in my house.*
+*The Beowulf novel that’s in my house.*
 
 My dad eventually told me that the book had the original Old English translation of the translated page on the right side of each page, and I found that to be really intriguing. Being the voracious reader I was back in the day, I tried to read it, but this proved futile. The Modern English translation is still written in an archaic way, and it being in a poem form made it even more confusing for me to understand. I eventually gave up trying to read it, and unfortunately, I never actually tried to read it again at a later point in time since I stopped reading as much as I got into middle and high school. It seems that my love for languages has brought me back here, however, and I am excited to do this data analysis.
 
@@ -27,28 +27,28 @@ I tried to do some research into the authors, and I managed to find a little bit
 
 Even looking simply at the first sentence of each novel, you can clearly see there is a difference in the prose between the three translators:
 
-“*Lo! the Spear-Danes’ glory through splendid achievements
+“*Lo! the Spear-Danes’ glory through splendid achievements*
 
-The folk-kings’ former fame we have heard of,
+*The folk-kings’ former fame we have heard of,*
 
-How princes displayed then their prowess-in-battle.*” (Hall)
+*How princes displayed then their prowess-in-battle.*” (Hall)
 
 
-“*Lo, praise of the prowess of people-kings
+“*Lo, praise of the prowess of people-kings*
 
-of spear-armed Danes, in days long sped,
+*of spear-armed Danes, in days long sped,*
 
-we have heard, and what honor the athelings won!*” (Gummere)
+*we have heard, and what honor the athelings won!*” (Gummere)
 
 
 “*Now we have heard, by inquiry, of the glory of the kings of the people, they of the Spear-Danes, how the Athelings were doing deeds of courage.*” (Kirtlan)
 
 
-“*Hwæt! wē Gār-Dena in geār-dagum
+“*Hwæt! wē Gār-Dena in geār-dagum*
 
-þēod-cyninga þrym gefrūnon,
+*þēod-cyninga þrym gefrūnon,*
 
-hū þā æðelingas ellen fremedon.*” (Original for reference)
+*hū þā æðelingas ellen fremedon.*” (Original for reference)
 
 Seeing this made me confident that I would be able to see actual results in my analysis, seeing that the translation prose actually seems pretty different from one another.
 
