@@ -19,13 +19,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   abc123 hello
 twitter_username: username
 github_username: npietrafesa
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: neon
 search: false
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: neon
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
